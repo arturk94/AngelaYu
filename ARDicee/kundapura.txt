@@ -1,0 +1,300 @@
+total 0
+drwxr-xr-x   6 arturknothe  staff   192 25 nov 08:52 .
+drwxr-xr-x@ 40 arturknothe  staff  1280 25 nov 08:37 ..
+	com.apple.macl	  72 
+	com.apple.metadata:_kMDItemUserTags	  42 
+drwxr-xr-x  10 arturknothe  staff   320 25 nov 08:49 .git
+drwxr-xr-x   8 arturknothe  staff   256 25 nov 08:35 ARDicee
+drwxr-xr-x@  5 arturknothe  staff   160 24 nov 21:53 ARDicee.xcodeproj
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 arturknothe  staff     0 25 nov 08:52 kundapura.txt
+
+./.git:
+total 32
+drwxr-xr-x  10 arturknothe  staff   320 25 nov 08:49 .
+drwxr-xr-x   6 arturknothe  staff   192 25 nov 08:52 ..
+-rw-r--r--   1 arturknothe  staff    21 24 nov 21:50 HEAD
+-rw-r--r--   1 arturknothe  staff   137 24 nov 21:50 config
+-rw-r--r--   1 arturknothe  staff    73 24 nov 21:50 description
+drwxr-xr-x   3 arturknothe  staff    96 24 nov 21:51 hooks
+-rw-r--r--   1 arturknothe  staff  2000 25 nov 08:49 index
+drwxr-xr-x   3 arturknothe  staff    96 24 nov 21:51 info
+drwxr-xr-x  22 arturknothe  staff   704 25 nov 08:49 objects
+drwxr-xr-x   4 arturknothe  staff   128 24 nov 21:51 refs
+
+./.git/hooks:
+total 8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  10 arturknothe  staff  320 25 nov 08:49 ..
+-rwxr-xr-x   1 arturknothe  staff  177 24 nov 21:50 README.sample
+
+./.git/info:
+total 8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  10 arturknothe  staff  320 25 nov 08:49 ..
+-rw-r--r--   1 arturknothe  staff   40 24 nov 21:50 exclude
+
+./.git/objects:
+total 0
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 .
+drwxr-xr-x  10 arturknothe  staff  320 25 nov 08:49 ..
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 22:50 10
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 18
+drwxr-xr-x   3 arturknothe  staff   96 25 nov 08:49 20
+drwxr-xr-x   4 arturknothe  staff  128 24 nov 21:51 34
+drwxr-xr-x   3 arturknothe  staff   96 25 nov 08:25 45
+drwxr-xr-x   3 arturknothe  staff   96 25 nov 08:44 4a
+drwxr-xr-x   3 arturknothe  staff   96 25 nov 08:25 57
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 73
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 86
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 91
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 92
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 96
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 9d
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 a8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 b1
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 ba
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 eb
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 ee
+drwxr-xr-x   2 arturknothe  staff   64 24 nov 21:51 info
+drwxr-xr-x   2 arturknothe  staff   64 24 nov 21:51 pack
+
+./.git/objects/10:
+total 29320
+drwxr-xr-x   3 arturknothe  staff        96 24 nov 22:50 .
+drwxr-xr-x  22 arturknothe  staff       704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  15010865 24 nov 22:50 f88033ab2191d9b5590e87844b1a6ffe790cc1
+
+./.git/objects/18:
+total 8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  206 24 nov 21:50 d981003d68d0546c4804ac2ff47dd97c6e7921
+
+./.git/objects/20:
+total 128
+drwxr-xr-x   3 arturknothe  staff     96 25 nov 08:49 .
+drwxr-xr-x  22 arturknothe  staff    704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  62509 25 nov 08:49 3189e9270d3064dc5665665c91645e43bb584c
+
+./.git/objects/34:
+total 176
+drwxr-xr-x   4 arturknothe  staff    128 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff    704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff    248 24 nov 21:50 286022dbdc826ac6a285f161fde517677d4343
+-r--r--r--   1 arturknothe  staff  82702 24 nov 21:50 a27ea45d65ae003a23ead75fa7317932bba6d7
+
+./.git/objects/45:
+total 32
+drwxr-xr-x   3 arturknothe  staff     96 25 nov 08:25 .
+drwxr-xr-x  22 arturknothe  staff    704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  16112 25 nov 08:25 73e6c9e9ffa6ebe9277d81eca07527b6465f04
+
+./.git/objects/4a:
+total 128
+drwxr-xr-x   3 arturknothe  staff     96 25 nov 08:44 .
+drwxr-xr-x  22 arturknothe  staff    704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  62491 25 nov 08:44 c6a03b5f27288c406b99d50b0907fcc1cb6e0a
+
+./.git/objects/57:
+total 136
+drwxr-xr-x   3 arturknothe  staff     96 25 nov 08:25 .
+drwxr-xr-x  22 arturknothe  staff    704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  68427 25 nov 08:25 9942c662e500dab36250c8d2753b0f07d68c59
+
+./.git/objects/73:
+total 8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff   66 24 nov 21:50 c00596a7fca3f3d4bdd64053b69d86745f9e10
+
+./.git/objects/86:
+total 8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  781 24 nov 21:50 5e9329f3767a7c1dd66294b8025bf81dee7d2c
+
+./.git/objects/91:
+total 8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  117 24 nov 21:50 9434a6254f0e9651f402737811be6634a03e9c
+
+./.git/objects/92:
+total 8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  253 24 nov 21:50 21b9bb1a35f5de270a41afa01305478221ae32
+
+./.git/objects/96:
+total 8
+drwxr-xr-x   3 arturknothe  staff    96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff   704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  2975 24 nov 21:50 f67bef18485f61b9f5a52df5c9a85c12f4a362
+
+./.git/objects/9d:
+total 8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  798 24 nov 21:50 29c13808a86b96251f05aaad46f060b77dbea6
+
+./.git/objects/a8:
+total 8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  804 24 nov 21:50 d403e34245fcae80e154d28e543e413bad095c
+
+./.git/objects/b1:
+total 8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  624 24 nov 21:50 697b9a317b71074b015fcbb5e87720490298b4
+
+./.git/objects/ba:
+total 688
+drwxr-xr-x   3 arturknothe  staff      96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff     704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  349794 24 nov 21:50 392589b700c619d2c828e14361f09b0355a72f
+
+./.git/objects/eb:
+total 8
+drwxr-xr-x   3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  105 24 nov 21:50 8789700816459c1e1480e0b34781d9fb78a1ca
+
+./.git/objects/ee:
+total 8
+drwxr-xr-x   3 arturknothe  staff    96 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff   704 25 nov 08:49 ..
+-r--r--r--   1 arturknothe  staff  1039 24 nov 21:50 86cceabe20c4caf77a1439b663e73820e529fc
+
+./.git/objects/info:
+total 0
+drwxr-xr-x   2 arturknothe  staff   64 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 ..
+
+./.git/objects/pack:
+total 0
+drwxr-xr-x   2 arturknothe  staff   64 24 nov 21:51 .
+drwxr-xr-x  22 arturknothe  staff  704 25 nov 08:49 ..
+
+./.git/refs:
+total 0
+drwxr-xr-x   4 arturknothe  staff  128 24 nov 21:51 .
+drwxr-xr-x  10 arturknothe  staff  320 25 nov 08:49 ..
+drwxr-xr-x   2 arturknothe  staff   64 24 nov 21:51 heads
+drwxr-xr-x   2 arturknothe  staff   64 24 nov 21:51 tags
+
+./.git/refs/heads:
+total 0
+drwxr-xr-x  2 arturknothe  staff   64 24 nov 21:51 .
+drwxr-xr-x  4 arturknothe  staff  128 24 nov 21:51 ..
+
+./.git/refs/tags:
+total 0
+drwxr-xr-x  2 arturknothe  staff   64 24 nov 21:51 .
+drwxr-xr-x  4 arturknothe  staff  128 24 nov 21:51 ..
+
+./ARDicee:
+total 24
+drwxr-xr-x  8 arturknothe  staff   256 25 nov 08:35 .
+drwxr-xr-x  6 arturknothe  staff   192 25 nov 08:37 ..
+-rw-r--r--  1 arturknothe  staff  1763 24 nov 21:50 AppDelegate.swift
+drwxr-xr-x  5 arturknothe  staff   160 24 nov 21:51 Assets.xcassets
+drwxr-xr-x  4 arturknothe  staff   128 24 nov 21:51 Base.lproj
+-rw-r--r--  1 arturknothe  staff  1671 24 nov 21:50 Info.plist
+-rw-r--r--  1 arturknothe  staff  2012 25 nov 08:34 ViewController.swift
+drwxr-xr-x  8 arturknothe  staff   256 25 nov 08:49 art.scnassets
+
+./ARDicee/Assets.xcassets:
+total 8
+drwxr-xr-x  5 arturknothe  staff  160 24 nov 21:51 .
+drwxr-xr-x  8 arturknothe  staff  256 25 nov 08:35 ..
+drwxr-xr-x  3 arturknothe  staff   96 24 nov 21:51 AccentColor.colorset
+drwxr-xr-x  3 arturknothe  staff   96 24 nov 21:51 AppIcon.appiconset
+-rw-r--r--  1 arturknothe  staff   63 24 nov 21:50 Contents.json
+
+./ARDicee/Assets.xcassets/AccentColor.colorset:
+total 8
+drwxr-xr-x  3 arturknothe  staff   96 24 nov 21:51 .
+drwxr-xr-x  5 arturknothe  staff  160 24 nov 21:51 ..
+-rw-r--r--  1 arturknothe  staff  123 24 nov 21:50 Contents.json
+
+./ARDicee/Assets.xcassets/AppIcon.appiconset:
+total 8
+drwxr-xr-x  3 arturknothe  staff    96 24 nov 21:51 .
+drwxr-xr-x  5 arturknothe  staff   160 24 nov 21:51 ..
+-rw-r--r--  1 arturknothe  staff  1591 24 nov 21:50 Contents.json
+
+./ARDicee/Base.lproj:
+total 16
+drwxr-xr-x  4 arturknothe  staff   128 24 nov 21:51 .
+drwxr-xr-x  8 arturknothe  staff   256 25 nov 08:35 ..
+-rw-r--r--  1 arturknothe  staff  1665 24 nov 21:50 LaunchScreen.storyboard
+-rw-r--r--  1 arturknothe  staff  2767 24 nov 21:50 Main.storyboard
+
+./ARDicee/art.scnassets:
+total 31776
+drwxr-xr-x  8 arturknothe  staff       256 25 nov 08:49 .
+drwxr-xr-x  8 arturknothe  staff       256 25 nov 08:35 ..
+-rw-r--r--  1 arturknothe  staff  15030356 24 nov 22:49 8k_moon.jpg
+-rw-rw-r--  1 arturknothe  staff     29490 21 nov  2015 New_RedBase_Color.png
+-rw-rw-r--  1 arturknothe  staff    407585 25 nov 08:49 diceCollada.dae
+-rw-r--r--  1 arturknothe  staff    219695 25 nov 08:49 diceCollada.scn
+-rw-r--r--  1 arturknothe  staff    218982 24 nov 22:09 ship.scn
+-rw-r--r--  1 arturknothe  staff    349666 21 oct 05:49 texture.png
+
+./ARDicee.xcodeproj:
+total 32
+drwxr-xr-x@ 5 arturknothe  staff    160 24 nov 21:53 .
+	com.apple.FinderInfo	   32 
+drwxr-xr-x  6 arturknothe  staff    192 25 nov 08:37 ..
+-rw-r--r--  1 arturknothe  staff  12955 24 nov 21:53 project.pbxproj
+drwxr-xr-x  5 arturknothe  staff    160 24 nov 21:50 project.xcworkspace
+drwxr-xr-x  3 arturknothe  staff     96 24 nov 21:50 xcuserdata
+
+./ARDicee.xcodeproj/project.xcworkspace:
+total 8
+drwxr-xr-x  5 arturknothe  staff  160 24 nov 21:50 .
+drwxr-xr-x@ 5 arturknothe  staff  160 24 nov 21:53 ..
+	com.apple.FinderInfo	 32 
+-rw-r--r--  1 arturknothe  staff  135 24 nov 21:50 contents.xcworkspacedata
+drwxr-xr-x  3 arturknothe  staff   96 24 nov 21:50 xcshareddata
+drwxr-xr-x  3 arturknothe  staff   96 24 nov 21:50 xcuserdata
+
+./ARDicee.xcodeproj/project.xcworkspace/xcshareddata:
+total 8
+drwxr-xr-x  3 arturknothe  staff   96 24 nov 21:50 .
+drwxr-xr-x  5 arturknothe  staff  160 24 nov 21:50 ..
+-rw-r--r--  1 arturknothe  staff  238 24 nov 21:50 IDEWorkspaceChecks.plist
+
+./ARDicee.xcodeproj/project.xcworkspace/xcuserdata:
+total 0
+drwxr-xr-x  3 arturknothe  staff   96 24 nov 21:50 .
+drwxr-xr-x  5 arturknothe  staff  160 24 nov 21:50 ..
+drwxr-xr-x  3 arturknothe  staff   96 25 nov 08:51 arturknothe.xcuserdatad
+
+./ARDicee.xcodeproj/project.xcworkspace/xcuserdata/arturknothe.xcuserdatad:
+total 64
+drwxr-xr-x  3 arturknothe  staff     96 25 nov 08:51 .
+drwxr-xr-x  3 arturknothe  staff     96 24 nov 21:50 ..
+-rw-r--r--  1 arturknothe  staff  32312 25 nov 08:51 UserInterfaceState.xcuserstate
+
+./ARDicee.xcodeproj/xcuserdata:
+total 0
+drwxr-xr-x  3 arturknothe  staff   96 24 nov 21:50 .
+drwxr-xr-x@ 5 arturknothe  staff  160 24 nov 21:53 ..
+	com.apple.FinderInfo	 32 
+drwxr-xr-x  3 arturknothe  staff   96 24 nov 21:50 arturknothe.xcuserdatad
+
+./ARDicee.xcodeproj/xcuserdata/arturknothe.xcuserdatad:
+total 0
+drwxr-xr-x  3 arturknothe  staff  96 24 nov 21:50 .
+drwxr-xr-x  3 arturknothe  staff  96 24 nov 21:50 ..
+drwxr-xr-x  3 arturknothe  staff  96 24 nov 21:50 xcschemes
+
+./ARDicee.xcodeproj/xcuserdata/arturknothe.xcuserdatad/xcschemes:
+total 8
+drwxr-xr-x  3 arturknothe  staff   96 24 nov 21:50 .
+drwxr-xr-x  3 arturknothe  staff   96 24 nov 21:50 ..
+-rw-r--r--  1 arturknothe  staff  342 24 nov 21:50 xcschememanagement.plist
